@@ -4,5 +4,5 @@
 </div>
 
 <p align="center">
-  <img src="images/model.png" alt="JARVIS" width="820" />
+  <img src="model.png" alt="JARVIS" width="520" />
 </p> 
