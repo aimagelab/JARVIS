@@ -1,0 +1,13 @@
+.vscode/
+*.pyc
+**/__pycache__/
+.scratch/
+wandb/*
+./answers
+experiments.csv
+CLAUDE.md
+all_results.csv
+*.jsonl
+*submission.xlsx
+*submission.json
+*url.txt
